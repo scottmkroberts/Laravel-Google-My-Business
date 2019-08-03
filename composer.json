@@ -9,7 +9,7 @@
             "email": "scott.bowler@dcsworldwide.net"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0",
         "illuminate/support": "4.*|5.*",
