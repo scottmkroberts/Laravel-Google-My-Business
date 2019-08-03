@@ -457,7 +457,7 @@ class GoogleMyBusiness extends Google_Service
                 ),
               ),
             ),'reportInsights' => array(
-              'path' => 'v4/{+name}/locations:reportInsights',
+              'path' => 'v4/accounts/{+name}/locations:reportInsights',
               'httpMethod' => 'POST',
               'parameters' => array(
                 'name' => array(
